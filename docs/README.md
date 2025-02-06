@@ -1,27 +1,24 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
+# Breno Melo
+**Web development student**
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+Olá, Tudo bem ?! 
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+👦Me chamo Breno Igor, tenho 23 anos.  
+🖥️Cursando Análise e Desenvolvimento de Sistemas
+🧑‍🎓Formado em Técnico de Análise e desenvolvimento de sistemas  
+🛫Formado em Gestão de Turismo  
+🎮Gosto muito de jogos (embora eu não seja um dos players mais habilidosos 🤡...)
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+Atualmente atuo como software engineering em uma empresa de multinacional que presta consultoria para grandes empresas. Também participo como monitor e exAluno do curso Start, que visa formar e conectar jovens ao mundo de desenvolvimento de Sistemas. 
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+<div>
+  <a href="https://www.linkedin.com/in/melobreno/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://github.com/Melobreno/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href="mailto:brenomelocont@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+---
+**Habilidades:**
+* **Tecnologias:** Java, JavaScript, TypeScript, NodeJs
+* **Frameworks:** Springboot, React
+* **Ferramentas:** Git
